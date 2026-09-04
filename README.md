@@ -20,7 +20,7 @@ ChatGPT 镜像网站：[https://ai.luckaichat.com/](https://ai.luckaichat.com/)
 
 ---
 
-**[ChatGPT 国内使用指南](https://chatgpt-cnblog.com)** 
+**[ChatGPT 国内使用指南](https://chatgpt-cnblog.com)**  
 **[ChatGPT 新手教程](https://gemini-cnblog.com)** 
 
 ## **1. ChatGPT 究竟是什么？**
