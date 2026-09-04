@@ -20,6 +20,9 @@ ChatGPT 镜像网站：[https://ai.luckaichat.com/](https://ai.luckaichat.com/)
 
 ---
 
+**[ChatGPT 国内使用指南](https://chatgpt-cnblog.com)** 
+**[ChatGPT 新手教程](https://gemini-cnblog.com)** 
+
 ## **1. ChatGPT 究竟是什么？**
 
 **ChatGPT** 是由美国人工智能研究公司 **OpenAI** 开发的一款革命性的人工智能聊天机器人。它基于大型语言模型（LLM）技术，能够理解和生成类似人类的自然语言文本。
